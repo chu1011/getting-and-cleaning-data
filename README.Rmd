@@ -1,0 +1,20 @@
+---
+title: "README"
+output: html_document
+---
+
+##Introduction
+
+This repository contains my work for the course project for the Coursera course "Getting and Cleaning data", part of the Data Science specialization.
+
+##Raw Data
+
+The features stored in the x_test.txt. The activity labels are in the y_test.txt file. The test subjects are in the subject_test.txt file.
+
+##Tidy Data
+
+run_analysis.R merges the test and training data, create a tidy data set containing the means of all the columns per test subject and per activity.
+
+##CodeBook
+
+Code Book contains dtails of data source and dataset information.
